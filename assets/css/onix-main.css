@@ -499,7 +499,7 @@ ul {
 .header-area .menu-area .main-menu ul li a {
   display: block;
   font-size: 20px;
-  color:#09c48c;
+  color:#2976be;
   font-weight: 400;
   text-transform: uppercase;
   padding: 40px 13px;
@@ -859,7 +859,7 @@ ul {
   padding-top: 70px;
 }
 .services-area .service-list .single-service {
-  padding: 70px 30px 40px 30px;
+  padding: 20px;
   border: 1px solid #dfdfdf;
   box-sizing:initial;
   margin-top: 40px;
